@@ -3,7 +3,7 @@
 <img align="right" alt="GIF"  width="300px" src="https://github.com/Adarsh1999/adarsh1999/blob/main/images/giphy.webp" />
 
 
-<h1 align="center"># Hello, folks! <img src="https://github.com/Adarsh1999/adarsh1999/blob/main/images/wave.gif" width="30px"><br> I'm Preet 
+<h1 align="center"># Hello, folks! <img src="https://github.com/Adarsh1999/adarsh1999/blob/main/images/wave.gif" width="30px"><br> I'm Adarsh 
 <img src="https://github.com/Adarsh1999/adarsh1999/blob/main/images/Developer.gif" width="65px"></h1><br><br>
 <!--  <center><a href="https://www.linkedin.com/in/anikethsukhtankar/">
   <img align="center" alt="Aniketh's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -35,7 +35,7 @@
 
 - <summary> 💬 Problem Solver. Passion Catalyst. Change Maker. Love simulating conversations especially if done over beer. I 'm looking to collaborate to work on ML projects😎 </summary>   
 
-- <details> <summary> 📫 How to reach me :information_desk_person: </summary><a href="mailto:preetmehta1995@gmail.com"> <img src="https://github.com/Adarsh1999/adarsh1999/blob/main/images/gmail.png" width="22px"/> </a><a href="https://wa.me/919408377842" target="blank"><img align="center" src="https://github.com/Adarsh1999/adarsh1999/blob/main/images/5ae21cc526c97415d3213554.png" width="40x" /></a>
+- <details> <summary> 📫 How to reach me :information_desk_person: </summary><a href="mailto:agm11id@gmail.com"> <img src="https://github.com/Adarsh1999/adarsh1999/blob/main/images/gmail.png" width="22px"/> </a><a href="https://wa.me/919408377842" target="blank"><img align="center" src="https://github.com/Adarsh1999/adarsh1999/blob/main/images/5ae21cc526c97415d3213554.png" width="40x" /></a>
 </details>
 
 - <details> <summary>:zap: Fun fact</summary> 1. Google uses about 1,000 computers to answer every single search query.<br>2. By 2025, the Data Science analytics sector in India is estimated to grow eightfold, reaching $16 billion.<br>3. Data Scientists and Data Analysts are NOT the Same<br>4. You do Not Need to be a Tech Savvy or Hold a PhD to Learn Data Science<br>5. Data Science is Not Just Excel Sheets<br>6. Data Science Competitions and Real Life Projects are Different<br>7. Data Science Field has Different Roles, Not just Data Scientists<br>8. Data Science Needs Great Communication Skills<br>9. Data Science is Not for Everyone<br>10. Less than 0.5% of all data we create is ever analysed and used.
@@ -86,7 +86,7 @@ while(!(succeed=try()); )
 <br>
  <h4 align="center">Hey,Wait! 👋 don't foget to check out my social media handles 😎<img align="center" src="https://github.com/Adarsh1999/adarsh1999/blob/main/images/Handshake.gif" height="30px"></h4> <br>
 
-<a href="https://www.linkedin.com/in/preetmehta/">
+<a href="https://www.linkedin.com/in/👋-adarsh-gupta-447329154/">
   <img align="left" src="https://github.com/Adarsh1999/adarsh1999/blob/main/images/Linkedin%20(1).svg" alt="kushal's linkedin" width="24px" />
 </a>  
  
