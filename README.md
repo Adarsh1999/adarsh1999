@@ -95,7 +95,7 @@ while(!(succeed=try()); )
   <img align="left" src="https://github.com/Adarsh1999/adarsh1999/blob/main/images/Instagram%20(1).svg" alt="instagram" width="24px" />
 </a>
 
-<a href="https://www.youtube.com/channel/UCCcw6HxUkkfrlKn7-6SszDQ/featured" target="blank">
+<a href="https://www.youtube.com/channel/UC6RdqKo5p0OO1Aee325Q72w/featured" target="blank">
   <img align="left" src="https://github.com/Adarsh1999/adarsh1999/blob/main/images/youtube-logo-icon-png-svg.png" alt="youtube"  width="25px" height='23.5' />
 </a>
 
