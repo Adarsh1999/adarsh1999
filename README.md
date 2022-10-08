@@ -27,15 +27,15 @@
 
 - 🧑‍🎓 Currently Pursuing MS in Computer Software Engineering at Northeastern Universiry, Boston
  
-- 🕵 Intern at The Sparks Foundation.
+- 🕵 Software Developer Engineer at The Genesis Artificial Intelligence.
 
 <!-- - 🔭 Feel free to check out my latest [Project](https://github.com/Adarsh1999/thesparksfoundation-projects) -->
 
 - 🌱 I’m currently learning **Data Science & Machine learning🤩**
 
-- <summary> 💬 Problem Solver. Passion Catalyst. Change Maker. Love simulating conversations especially if done over beer. I 'm looking to collaborate to work on ML projects😎 </summary>   
+- <summary> 💬 Problem Solver. Passion Catalyst. Change Maker. Love simulating conversations especially if done over beer. I 'm looking to collaborate to work on Django projects😎 </summary>   
 
-- <details> <summary> 📫 How to reach me :information_desk_person: </summary><a href="mailto:agm11id@gmail.com"> <img src="https://github.com/Adarsh1999/adarsh1999/blob/main/images/gmail.png" width="22px"/> </a><a href="https://wa.me/919408377842" target="blank"><img align="center" src="https://github.com/Adarsh1999/adarsh1999/blob/main/images/5ae21cc526c97415d3213554.png" width="40x" /></a>
+- <details> <summary> 📫 How to reach me :information_desk_person: </summary><a href="mailto:agm11id@gmail.com"> <img src="https://github.com/Adarsh1999/adarsh1999/blob/main/images/gmail.png" width="22px"/> </a><a href="https://wa.me/16172021401" target="blank"><img align="center" src="https://github.com/Adarsh1999/adarsh1999/blob/main/images/5ae21cc526c97415d3213554.png" width="40x" /></a>
 </details>
 
 - <details> <summary>:zap: Fun fact</summary> 1. Google uses about 1,000 computers to answer every single search query.<br>2. By 2025, the Data Science analytics sector in India is estimated to grow eightfold, reaching $16 billion.<br>3. Data Scientists and Data Analysts are NOT the Same<br>4. You do Not Need to be a Tech Savvy or Hold a PhD to Learn Data Science<br>5. Data Science is Not Just Excel Sheets<br>6. Data Science Competitions and Real Life Projects are Different<br>7. Data Science Field has Different Roles, Not just Data Scientists<br>8. Data Science Needs Great Communication Skills<br>9. Data Science is Not for Everyone<br>10. Less than 0.5% of all data we create is ever analysed and used.
@@ -71,7 +71,8 @@
 <br>
 <img height="27" src="https://github.com/Adarsh1999/adarsh1999/blob/main/images/Spotify%20Playing%20-%20%F0%9F%8E%A7-yellow.svg" />
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ)
+&nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
+
 
 <br>
 
