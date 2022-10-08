@@ -31,7 +31,7 @@
 
 <!-- - 🔭 Feel free to check out my latest [Project](https://github.com/Adarsh1999/thesparksfoundation-projects) -->
 
-- 🌱 I’m currently learning **Data Science & Machine learning🤩**
+- 🌱 I’m currently learning **Backend Engineering and Cloud Programming🤩**
 
 - <summary> 💬 Problem Solver. Passion Catalyst. Change Maker. Love simulating conversations especially if done over beer. I 'm looking to collaborate to work on Django projects😎 </summary>   
 
@@ -70,9 +70,9 @@
 
 <br>
 <img height="27" src="https://github.com/Adarsh1999/adarsh1999/blob/main/images/Spotify%20Playing%20-%20%F0%9F%8E%A7-yellow.svg" />
-
+<p align="center">
 &nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
-
+</p>
 
 <br>
 
