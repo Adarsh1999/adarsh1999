@@ -108,7 +108,7 @@ while(!(succeed=try()); )
 <br><br><br>
 
 <details>
-  <summary>:zap: Tab here :P :gift:</summary>
+  <summary>:zap: Tap here :P :gift:</summary>
 <p align="center"><img src="https://github.com/Adarsh1999/adarsh1999/blob/main/images/tenor.gif" width="50"></p> 
   <img align="right" src="https://github.com/Adarsh1999/adarsh1999/blob/main/images/89112043-60fe4d80-d412-11ea-920f-aa722997007a.gif" alt="Coder GIF" width="150" height="100">
 </details>  
