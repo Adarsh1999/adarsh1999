@@ -27,7 +27,7 @@
 
 - 🧑‍🎓 Currently Pursuing MS in Computer Software Engineering at Northeastern Universiry, Boston
  
-- 🕵 Software Developer Engineer at The Genesis Artificial Intelligence.
+- 🕵 Software Developer Intern at Bosch Home Comfort.
 
 <!-- - 🔭 Feel free to check out my latest [Project](https://github.com/Adarsh1999/thesparksfoundation-projects) -->
 
