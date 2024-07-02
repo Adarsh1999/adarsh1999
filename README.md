@@ -82,7 +82,7 @@
 
 <br>
 
-<h4 align="center">Show ❤️ By Starring My <a href='https://github.com/Adarsh1999'><img align='center'  height="22" src="https://github.com/Adarsh1999/adarsh1999/blob/main/images/Repos!%F0%9F%98%8A-purple.svg" /></a></h4>
+<h4 align="center">Show ❤️ By Starring My <a href='[https://github.com/Adarsh1999](https://github.com/Adarsh1999?tab=repositories)'><img align='center'  height="22" src="https://github.com/Adarsh1999/adarsh1999/blob/main/images/Repos!%F0%9F%98%8A-purple.svg" /></a></h4>
 
 <br>
 
