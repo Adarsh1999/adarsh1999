@@ -33,9 +33,9 @@
 
 - 🌱 I’m currently learning **Backend Engineering and Cloud Programming🤩**
 
-- <summary> 💬 Problem Solver. Passion Catalyst. Change Maker. Love simulating conversations especially if done over beer. I 'm looking to collaborate to work on Full-Stack projects😎 </summary>   
+- <summary> 💬 Problem Solver. Passion Catalyst. Change Maker. Love simulating conversations especially if done over beer. I'm looking to collaborate to work on Full-Stack projects😎 </summary>   
 
-- <details> <summary> 📫 How to reach me :information_desk_person: </summary><a href="mailto:agm11id@gmail.com"> <img src="https://github.com/Adarsh1999/adarsh1999/blob/main/images/gmail.png" width="22px"/> </a><a href="https://wa.me/16172021401" target="blank"><img align="center" src="https://github.com/Adarsh1999/adarsh1999/blob/main/images/5ae21cc526c97415d3213554.png" width="40x" /></a>
+- <details> <summary> 📫 How to reach me :information_desk_person: </summary><a href="mailto:agm11id@gmail.com"> <img src="https://github.com/Adarsh1999/adarsh1999/blob/main/images/gmail.png" width="22px"/> </a>
 </details>
 
 - <details> <summary>:zap: Fun fact</summary> 1. Google uses about 1,000 computers to answer every single search query.<br>2. The word "software" was first used in 1953 by mathematician and statistician John W. Tukey<br>3. The term "bug" to describe a software flaw originated in the 1940s when a moth caused a malfunction in the Harvard Mark II computer<br>4. The programming language Python was named after the British comedy group Monty Python, not the snake<br>5. The first graphical web browser, Mosaic, was released in 1993 and played a significant role in popularizing the World Wide Web<br>6. Data Science Competitions and Real Life Projects are Different<br>7. The first-ever website, created by Tim Berners-Lee, is still live. You can visit it at "info.cern.ch."<br>8. The most widely used programming language today is JavaScript, which is used for web development.<br>9. The term "debugging" was coined by Grace Hopper when she removed a moth from a computer relay in 1947 <br>10. The "404 error" message, commonly seen when a webpage is not found, was named after the room 404 at CERN, where the World Wide Web was developed
