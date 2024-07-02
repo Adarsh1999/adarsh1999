@@ -18,7 +18,7 @@
 <br> -->
 
 
-[![Hello programmer Welcome to my profile](https://github.com/Adarsh1999/adarsh1999/blob/main/images/Hello%2CProgrammer!-Welcome_3-orange.svg)](https://github.com/Adarsh1999)  [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Adarsh1999)  [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/👋-adarsh-gupta-447329154//)
+[![Hello programmer Welcome to my profile](https://github.com/Adarsh1999/adarsh1999/blob/main/images/Hello%2CProgrammer!-Welcome_3-orange.svg)](https://github.com/Adarsh1999)  [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Adarsh1999)  [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/adarsh101/)
 
 <!-- <br><br>
 <br><img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
