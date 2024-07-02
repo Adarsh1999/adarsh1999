@@ -93,7 +93,7 @@ while(!(succeed=try()); )
 <br>
  <h4 align="center">Hey,Wait! 👋 don't foget to check out my social media handles 😎<img align="center" src="https://github.com/Adarsh1999/adarsh1999/blob/main/images/Handshake.gif" height="30px"></h4> <br>
 
-<a href="https://www.linkedin.com/in/👋-adarsh-gupta-447329154/">
+<a href="https://www.linkedin.com/in/adarsh101/">
   <img align="left" src="https://github.com/Adarsh1999/adarsh1999/blob/main/images/Linkedin%20(1).svg" alt="kushal's linkedin" width="24px" />
 </a>  
  
