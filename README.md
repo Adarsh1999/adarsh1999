@@ -27,7 +27,8 @@
 
 - 🧑‍🎓 Currently Pursuing MS in Computer Software Engineering at Northeastern Universiry, Boston
  
-- 🕵 Software Developer Intern at Bosch Home Comfort.
+- 🕵 Software Developer Engineer @Philips.
+- 🧑‍🦱 Interned @Bosch Home Comfort
 
 <!-- - 🔭 Feel free to check out my latest [Project](https://github.com/Adarsh1999/thesparksfoundation-projects) -->
 
