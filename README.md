@@ -46,7 +46,7 @@
 ## :gear: My GitHub Analytics
 <div align="center">
   <h4> 
-    🏃 Happy Coding 🏃 https://pastebin.com/FJ4C4536
+    🏃 Happy Coding 🏃
   </h4>
 </div>
 <p align="center">
