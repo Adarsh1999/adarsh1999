@@ -1,127 +1,180 @@
-<img align="left" height="180px" src="https://github.com/Adarsh1999/adarsh1999/blob/main/images/Capture.png" alt="image" />
+<!-- Animated Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Adarsh%20Gupta&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20|%20Full-Stack%20Developer%20|%20Cloud%20Enthusiast&descAlignY=52&descSize=18"/>
 
-<img align="right" alt="GIF"  width="300px" src="https://github.com/Adarsh1999/adarsh1999/blob/main/images/giphy.webp" />
-
-
-<h1 align="center"># Hello, folks! <img src="https://github.com/Adarsh1999/adarsh1999/blob/main/images/wave.gif" width="30px"><br> I'm Adarsh 
-<img src="https://github.com/Adarsh1999/adarsh1999/blob/main/images/Developer.gif" width="65px"></h1><br><br>
-<!--  <center><a href="https://www.linkedin.com/in/anikethsukhtankar/">
-  <img align="center" alt="Aniketh's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/thatgoanguy/">
-  <img align="center" alt="Aniketh's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/thegoanguy/">
-  <img align="center" alt="Aniketh's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-  </center>
-<br> -->
-
-
-[![Hello programmer Welcome to my profile](https://github.com/Adarsh1999/adarsh1999/blob/main/images/Hello%2CProgrammer!-Welcome_3-orange.svg)](https://github.com/Adarsh1999)  [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Adarsh1999)  [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/adarsh101/)
-
-<!-- <br><br>
-<br><img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
- -->
-## About me:<img src="https://github.com/Adarsh1999/adarsh1999/blob/main/images/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966.gif" width="30"> 
-
-- 🧑‍🎓 Currently Pursuing MS in Computer Software Engineering at Northeastern Universiry, Boston
- 
-- 🕵 Software Developer Engineer @Philips.
-- 🧑‍🦱 Interned @Bosch Home Comfort
-
-<!-- - 🔭 Feel free to check out my latest [Project](https://github.com/Adarsh1999/thesparksfoundation-projects) -->
-
-- 🌱 I’m currently learning **Backend Engineering and Cloud Programming🤩**
-
-- <summary> 💬 Problem Solver. Passion Catalyst. Change Maker. Love simulating conversations especially if done over beer. I'm looking to collaborate to work on Full-Stack projects😎 </summary>   
-
-- <details> <summary> 📫 How to reach me :information_desk_person: </summary><a href="mailto:agm11id@gmail.com"> <img src="https://github.com/Adarsh1999/adarsh1999/blob/main/images/gmail.png" width="22px"/> </a>
-</details>
-
-- <details> <summary>:zap: Fun fact</summary> 1. Google uses about 1,000 computers to answer every single search query.<br>2. The word "software" was first used in 1953 by mathematician and statistician John W. Tukey<br>3. The term "bug" to describe a software flaw originated in the 1940s when a moth caused a malfunction in the Harvard Mark II computer<br>4. The programming language Python was named after the British comedy group Monty Python, not the snake<br>5. The first graphical web browser, Mosaic, was released in 1993 and played a significant role in popularizing the World Wide Web<br>6. Data Science Competitions and Real Life Projects are Different<br>7. The first-ever website, created by Tim Berners-Lee, is still live. You can visit it at "info.cern.ch."<br>8. The most widely used programming language today is JavaScript, which is used for web development.<br>9. The term "debugging" was coined by Grace Hopper when she removed a moth from a computer relay in 1947 <br>10. The "404 error" message, commonly seen when a webpage is not found, was named after the room 404 at CERN, where the World Wide Web was developed
-</details>
-
-
-## :gear: My GitHub Analytics
-<div align="center">
-  <h4> 
-    🏃 Happy Coding 🏃
-  </h4>
-</div>
+<!-- Typing Animation -->
 <p align="center">
   <a href="https://github.com/Adarsh1999">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adarsh1999&count_private=true&theme=algolia&hide_border=true&show_icons=true&include_all_commits=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh1999&theme=algolia&hide_border=true&langs_count=9&layout=compact"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Hey+there!+I'm+Adarsh+%F0%9F%91%8B;Building+scalable+systems+%26+crafting+elegant+code;Welcome+to+my+digital+playground+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
+<!-- Profile Views & Social Badges -->
 <p align="center">
-  <a href="https://github.com/Adarsh1999">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Adarsh1999&" alt="Adarsh1999" />
-
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Adarsh1999&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <a href="https://www.linkedin.com/in/adarsh101/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:agm11id@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://www.instagram.com/theconqueror777/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://www.youtube.com/channel/UC6RdqKo5p0OO1Aee325Q72w"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
 </p>
 
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<br>
+<!-- About Me Section -->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
 
-<img height="25" src="https://github.com/Adarsh1999/adarsh1999/blob/main/images/Languages%20and%20%20tools-%20%F0%9F%93%9A-green.svg" />
-<img align="right" alt="GIF"  width="100px" src="https://github.com/Adarsh1999/adarsh1999/blob/main/images/giphy%20(1).gif" />
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
- 
+<img align="right" alt="Coding" width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-<br>
-
-
-
-<br>
-<img height="27" src="https://github.com/Adarsh1999/adarsh1999/blob/main/images/Spotify%20Playing%20-%20%F0%9F%8E%A7-yellow.svg" />
-
-&nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/adarshguptamaurya35)
-
-
-<br>
-
-<h4 align="center">Show ❤️ By Starring My <a href='https://github.com/Adarsh1999?tab=repositories'><img align='center'  height="22" src="https://github.com/Adarsh1999/adarsh1999/blob/main/images/Repos!%F0%9F%98%8A-purple.svg" /></a></h4>
-
-<br>
-
-
-```python3
-while(!(succeed=try()); )
+```javascript
+const adarsh = {
+    pronouns: "he" | "him",
+    location: "Boston, MA 🇺🇸",
+    education: "MS in Computer Software Engineering @ Northeastern",
+    currentRole: "Software Developer Engineer @ Philips",
+    previousRole: "Intern @ Bosch Home Comfort",
+    
+    currentlyLearning: ["Backend Engineering", "Cloud Architecture", "System Design"],
+    passions: ["Full-Stack Development", "Open Source", "Problem Solving"],
+    
+    funFact: "I debug with coffee and deploy with confidence ☕🚀"
+};
 ```
-<br>
- <h4 align="center">Hey,Wait! 👋 don't foget to check out my social media handles 😎<img align="center" src="https://github.com/Adarsh1999/adarsh1999/blob/main/images/Handshake.gif" height="30px"></h4> <br>
 
-<a href="https://www.linkedin.com/in/adarsh101/">
-  <img align="left" src="https://github.com/Adarsh1999/adarsh1999/blob/main/images/Linkedin%20(1).svg" alt="kushal's linkedin" width="24px" />
-</a>  
- 
-<a href="https://www.instagram.com/theconqueror777/" target="blank">
-  <img align="left" src="https://github.com/Adarsh1999/adarsh1999/blob/main/images/Instagram%20(1).svg" alt="instagram" width="24px" />
-</a>
+<br/>
 
-<a href="https://www.youtube.com/channel/UC6RdqKo5p0OO1Aee325Q72w/featured" target="blank">
-  <img align="left" src="https://github.com/Adarsh1999/adarsh1999/blob/main/images/youtube-logo-icon-png-svg.png" alt="youtube"  width="25px" height='23.5' />
-</a>
+- 🎓 **Graduate Student** pursuing MS in Computer Software Engineering at **Northeastern University, Boston**
+- 💼 **Software Developer Engineer** at **Philips** | Previously **Bosch Home Comfort**
+- 🌱 Currently diving deep into **Backend Engineering & Cloud Programming**
+- 💬 Ask me about **Full-Stack Development, System Design, Cloud Technologies**
+- 🤝 Open to collaborate on **innovative Full-Stack projects**
+- ⚡ Fun fact: *I believe every bug has a story to tell*
 
-<br><br><br>
+<br clear="right"/>
 
-<details>
-  <summary>:zap: Tap here :P :gift:</summary>
-<p align="center"><img src="https://github.com/Adarsh1999/adarsh1999/blob/main/images/tenor.gif" width="50"></p> 
-  <img align="right" src="https://github.com/Adarsh1999/adarsh1999/blob/main/images/89112043-60fe4d80-d412-11ea-920f-aa722997007a.gif" alt="Coder GIF" width="150" height="100">
-</details>  
-<img align='center'  height="70" alt="Thanks" width="100%" src="https://github.com/Adarsh1999/adarsh1999/blob/main/images/marquee.svg"/> 
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- ### Spotify Playing 🎧  ––>
+<!-- Tech Stack -->
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> Tech Stack
 
-<!--[<img src="https://now-playing-beige-ten.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />(https://open.spotify.com/user/31s7xanqwwzldh72zkvp5km2nqn4)––>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,js,ts,c,cpp,cs,go&theme=dark" alt="Languages"/>
+  </a>
+</p>
 
-<details>
-  <summary>:zap: Most used languages</summary>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,angular,nodejs,express,django,spring,html,css&theme=dark" alt="Frontend & Backend"/>
+  </a>
+</p>
 
-<p><img align="left" src="https://github.com/Adarsh1999/adarsh1999/blob/main/images/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6b757368616c3939372d646173266c61796f75743d636f6d7061637426686964653d68.svg" /></p>
-</details> 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,jenkins,git&theme=dark" alt="Cloud & DevOps"/>
+  </a>
+</p>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,kafka,elasticsearch,graphql,linux&theme=dark" alt="Databases & Tools"/>
+  </a>
+</p>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- GitHub Stats Section -->
+## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="30"> GitHub Analytics
+
+<p align="center">
+  <a href="https://github.com/Adarsh1999">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adarsh1999&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh1999&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Adarsh1999">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adarsh1999&theme=tokyonight&hide_border=true&background=0D1117" alt="Adarsh's Streak"/>
+  </a>
+</p>
+
+<!-- Activity Graph -->
+<p align="center">
+  <a href="https://github.com/Adarsh1999">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adarsh1999&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true" alt="Adarsh's Activity Graph"/>
+  </a>
+</p>
+
+<!-- GitHub Trophies -->
+<p align="center">
+  <a href="https://github.com/Adarsh1999">
+    <img src="https://github-profile-trophy.vercel.app/?username=Adarsh1999&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
+  </a>
+</p>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- Spotify Section -->
+## <img src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" width="30"> Now Playing
+
+<p align="center">
+  <a href="https://open.spotify.com/user/adarshguptamaurya35">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=adarshguptamaurya35&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing"/>
+  </a>
+</p>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- Fun Quote Section -->
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</p>
+
+<!-- Code Block -->
+<p align="center">
+  
+```python
+while not success:
+    try_again()
+    learn_from_mistakes()
+    coffee.drink()
+    if determination > obstacles:
+        success = True
+```
+
+</p>
+
+<!-- Snake Animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+</p>
+
+<!-- Connect Section -->
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Let's Connect!
+
+<p align="center">
+  <i>I love connecting with different people, so if you want to say hi, I'll be happy to meet you! 😊</i>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/adarsh101/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:agm11id@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://www.instagram.com/theconqueror777/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://www.youtube.com/channel/UC6RdqKo5p0OO1Aee325Q72w"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+</p>
+
+<!-- Support Section -->
+<p align="center">
+  <a href="https://github.com/Adarsh1999?tab=repositories">
+    <img src="https://img.shields.io/badge/Show%20❤️%20by%20starring%20repos-⭐-yellow?style=for-the-badge" alt="Star Repos"/>
+  </a>
+</p>
+
+<!-- Footer Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
