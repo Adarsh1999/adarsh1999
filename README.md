@@ -23,33 +23,34 @@
 <!-- About Me Section -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
 
-<img align="right" alt="Coding" width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<table>
+<tr>
+<td width="55%">
 
-```javascript
+```js
 const adarsh = {
-    pronouns: "he" | "him",
-    location: "Boston, MA 🇺🇸",
-    education: "MS in Computer Software Engineering @ Northeastern",
-    currentRole: "Software Developer Engineer @ Philips",
-    previousRole: "Intern @ Bosch Home Comfort",
-    
-    currentlyLearning: ["Backend Engineering", "Cloud Architecture", "System Design"],
-    passions: ["Full-Stack Development", "Open Source", "Problem Solving"],
-    
-    funFact: "I debug with coffee and deploy with confidence ☕🚀"
+  pronouns: "he/him",
+  location: "Boston, MA 🇺🇸",
+  education: "MS @ Northeastern",
+  role: "SDE @ Philips",
+  learning: ["Cloud", "System Design"],
+  passion: "Full-Stack Development"
 };
 ```
 
-<br/>
+</td>
+<td width="45%">
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%"/>
+</td>
+</tr>
+</table>
 
-- 🎓 **Graduate Student** pursuing MS in Computer Software Engineering at **Northeastern University, Boston**
+- 🎓 **Graduate Student** pursuing MS in Computer Software Engineering at **Northeastern University**
 - 💼 **Software Developer Engineer** at **Philips** | Previously **Bosch Home Comfort**
 - 🌱 Currently diving deep into **Backend Engineering & Cloud Programming**
 - 💬 Ask me about **Full-Stack Development, System Design, Cloud Technologies**
 - 🤝 Open to collaborate on **innovative Full-Stack projects**
-- ⚡ Fun fact: *I believe every bug has a story to tell*
-
-<br clear="right"/>
+- ⚡ Fun fact: *I debug with coffee and deploy with confidence ☕🚀*
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -89,14 +90,14 @@ const adarsh = {
 
 <p align="center">
   <a href="https://github.com/Adarsh1999">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adarsh1999&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh1999&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Adarsh1999&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Adarsh1999&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Adarsh1999">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adarsh1999&theme=tokyonight&hide_border=true&background=0D1117" alt="Adarsh's Streak"/>
+    <img src="https://streak-stats.demolab.com/?user=Adarsh1999&theme=tokyonight&hide_border=true&background=0D1117" alt="Adarsh's Streak"/>
   </a>
 </p>
 
@@ -110,7 +111,7 @@ const adarsh = {
 <!-- GitHub Trophies -->
 <p align="center">
   <a href="https://github.com/Adarsh1999">
-    <img src="https://github-profile-trophy.vercel.app/?username=Adarsh1999&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=Adarsh1999&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
   </a>
 </p>
 
@@ -122,7 +123,7 @@ const adarsh = {
 
 <p align="center">
   <a href="https://open.spotify.com/user/adarshguptamaurya35">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=adarshguptamaurya35&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing"/>
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=adarshguptamaurya35&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing"/>
   </a>
 </p>
 
