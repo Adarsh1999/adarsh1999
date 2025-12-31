@@ -46,8 +46,8 @@ const adarsh = {
 </table>
 
 - 💼 **Software Developer Engineer** at **Philips** | Previously **Bosch Home Comfort**
-- � **MS in Computer Software Engineering** from **Northeastern University, Boston**
-- �🌱 Currently diving deep into **Backend Engineering & Cloud Programming**
+- 🎓 **MS in Computer Software Engineering** from **Northeastern University, Boston**
+- 🌱 Currently diving deep into **Backend Engineering & Cloud Programming**
 - 💬 Ask me about **Full-Stack Development, System Design, Cloud Technologies**
 - 🤝 Open to collaborate on **innovative Full-Stack projects**
 - ⚡ Fun fact: *I debug with coffee and deploy with confidence ☕🚀*
@@ -60,25 +60,12 @@ const adarsh = {
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,js,ts,c,cpp,cs,go&theme=dark" alt="Languages"/>
+    <img src="https://skillicons.dev/icons?i=java,python,js,ts,react,angular,nodejs,spring,aws,docker,kubernetes,git&perline=12&theme=dark" alt="Tech Stack"/>
   </a>
 </p>
-
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,angular,nodejs,express,django,spring,html,css&theme=dark" alt="Frontend & Backend"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,jenkins,git&theme=dark" alt="Cloud & DevOps"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,kafka,elasticsearch,graphql,linux&theme=dark" alt="Databases & Tools"/>
+    <img src="https://skillicons.dev/icons?i=c,cpp,go,django,express,postgres,mongodb,redis,kafka,azure,gcp,linux&perline=12&theme=dark" alt="More Skills"/>
   </a>
 </p>
 
@@ -108,22 +95,24 @@ const adarsh = {
   </a>
 </p>
 
-<!-- GitHub Trophies -->
+<!-- Profile Summary Cards -->
 <p align="center">
   <a href="https://github.com/Adarsh1999">
-    <img src="https://github-trophies.vercel.app/?username=Adarsh1999&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adarsh1999&theme=tokyonight" alt="Profile Details"/>
   </a>
 </p>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- Spotify Section -->
-## <img src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" width="30"> Now Playing
+<p align="center">
+  <a href="https://github.com/Adarsh1999">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Adarsh1999&theme=tokyonight" alt="Repos per Language"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Adarsh1999&theme=tokyonight" alt="Most Commit Language"/>
+  </a>
+</p>
 
 <p align="center">
-  <a href="https://open.spotify.com/user/adarshguptamaurya35">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=adarshguptamaurya35&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing"/>
+  <a href="https://github.com/Adarsh1999">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Adarsh1999&theme=tokyonight" alt="Stats"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Adarsh1999&theme=tokyonight&utcOffset=-5" alt="Productive Time"/>
   </a>
 </p>
 
