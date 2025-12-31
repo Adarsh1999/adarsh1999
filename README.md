@@ -45,9 +45,9 @@ const adarsh = {
 </tr>
 </table>
 
-- 🎓 **Graduate Student** pursuing MS in Computer Software Engineering at **Northeastern University**
 - 💼 **Software Developer Engineer** at **Philips** | Previously **Bosch Home Comfort**
-- 🌱 Currently diving deep into **Backend Engineering & Cloud Programming**
+- � **MS in Computer Software Engineering** from **Northeastern University, Boston**
+- �🌱 Currently diving deep into **Backend Engineering & Cloud Programming**
 - 💬 Ask me about **Full-Stack Development, System Design, Cloud Technologies**
 - 🤝 Open to collaborate on **innovative Full-Stack projects**
 - ⚡ Fun fact: *I debug with coffee and deploy with confidence ☕🚀*
@@ -97,7 +97,7 @@ const adarsh = {
 
 <p align="center">
   <a href="https://github.com/Adarsh1999">
-    <img src="https://streak-stats.demolab.com/?user=Adarsh1999&theme=tokyonight&hide_border=true&background=0D1117" alt="Adarsh's Streak"/>
+    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Adarsh1999&theme=tokyonight&hide_border=true&background=0D1117" alt="Adarsh's Streak"/>
   </a>
 </p>
 
@@ -111,7 +111,7 @@ const adarsh = {
 <!-- GitHub Trophies -->
 <p align="center">
   <a href="https://github.com/Adarsh1999">
-    <img src="https://github-profile-trophy.vercel.app/?username=Adarsh1999&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
+    <img src="https://github-trophies.vercel.app/?username=Adarsh1999&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
   </a>
 </p>
 
